@@ -1,4 +1,4 @@
-## Smart Car Automation Project Using Arduino
+## Smart Car Automation Project Using Arduino(C++)
 
 **Overview**
 This project builds a smart car automation system using Arduino for autonomous navigation, obstacle avoidance, and accident detection. It uses ultrasonic sensors for detecting obstacles, a GSM module for sending emergency alerts, and a vibration sensor to detect collisions.
